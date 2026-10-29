@@ -47,9 +47,7 @@
     "windows": {
       "nsis": {
         "installMode": "currentUser",
-        "displayLanguageSelector": false,
-        "createDesktopShortcut": "always",
-        "createStartMenuShortcut": true
+        "startMenuFolder": "Ada"
       }
     }
   }
